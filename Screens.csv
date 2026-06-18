@@ -1,0 +1,6 @@
+﻿ScreenID,ScreenName,Capacity,ScreenType
+S001,Screen1,120,IMAX
+S002,Screen2,100,Standart
+S003,Screen3,90,3D
+S004,Screen4,95,Standard
+S005,Screen5,150,IMAX

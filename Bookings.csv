@@ -1,0 +1,6 @@
+﻿BookingID,CustomerID,ShowtimeID,StaffID,SeatsBooked,TotalAmount,BookingStatus
+B01,C001,SH001,ST003,2,20,Confirmed
+B02,C002,SH002,ST001,3,30,Confirmed
+B03,C003,SH003,ST001,1,12,Confirmed
+B04,C004,SH004,ST002,4,44,Confirmed
+B05,C005,SH005,ST005,2,18,Confirmed

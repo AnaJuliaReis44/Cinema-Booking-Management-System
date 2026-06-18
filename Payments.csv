@@ -1,0 +1,6 @@
+﻿PaymentID,BookingID,PaymentMethod,PaymentStatus,Amount
+P001,B001,Card,Paid,20
+P002,B002,Card,Paid,30
+P003,B003,Card,Paid,12
+P004,B004,Cash,Paid,44
+P005,B005,Cash,Paid,18

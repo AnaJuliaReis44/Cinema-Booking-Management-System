@@ -1,0 +1,6 @@
+﻿BookingID,CustomerName,Email,MovieTitle,Genre,ScreenName,ShowDate,ShowTime,SeatsBooked,StaffName,PaymentMethod,Amount
+B001,Anna Smith,annaS@gmail.com,Shrek,Animation,Screen1,01/06/2026,10:00,2,Olivia Smith,Card,20
+B002,Mario Bross,Mbross@gmail.com,Titanic,Romance,Screen2,02/06/2026,11:00,3,Emma Brown,Card,26
+B003,Maria Jones,MariaJones@yahoo.com,Titanic,Romance,Screen2,03/06/2026,12:00,1,Oliver James,Card,11
+B004,Paul Waltes,PaulWW@outlook.com,Avengers,Action,Screen3,03/06/2026,12:00,4,Mia Taylor,Cash,38
+B005,Marian Ioan,MarianIoan@yahoo.com,La La Land,Romance,Screen4,09/06/2026,14:00,2,Noah Wilson,Cash,23
